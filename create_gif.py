@@ -23,7 +23,7 @@ for filename in filenames:
     except Exception as e:
         print(f"⚠️ Error reading {input_path}: {e}")
 
-name_gif=input("Give me the name you want for your gif : ").replace(" ","_")
+name_gif=input("Give me the name you want for your gif : ").strip().replace(" ","_")
 name_gif=re.sub(r'[/\\]',"_",name_gif)
 
 if not name_gif:
