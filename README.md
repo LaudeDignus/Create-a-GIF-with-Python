@@ -73,7 +73,7 @@ naruto-gif-generator/
 2. Run the script :
 
 ```bash
-python3 gif_creator.py
+python3 create_gif.py
 ```
 
 3. Give your GIF a name when requested
