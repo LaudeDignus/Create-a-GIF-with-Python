@@ -121,7 +121,7 @@ pip install imageio
 ## 🔄 Opportunities for improvement
 
 - Interface graphique (Tkinter / PyQt)
-- If you have any ideas, don't hesitate to [contact us](https://github.com/LaudeDignus/Create-a-GIF-with-Python.git/discussion).
+- If you have any ideas, don't hesitate to [contact us](https://github.com/LaudeDignus/Create-a-GIF-with-Python.git/discussions).
 
 ---
 
