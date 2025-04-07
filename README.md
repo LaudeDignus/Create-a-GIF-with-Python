@@ -4,9 +4,9 @@ A simple and educational Python project that generates an animated GIF from a se
 
 ---
 <p align="center">
-  <img src="gif_generate/test_2025-04-06.gif" width="300"/><br>
+  <img src="gif_generate/test_2025-04-06.gif" width="300" /><br>
   <strong>Naruto GIF Generator</strong><br>
-  <em>Créez un GIF animé à partir d'images avec Python</em>
+  <em>Create animated GIFs from images with Python</em>
 </p>
 
 ---
@@ -54,15 +54,15 @@ This project has enabled me to learn to :
 ```
 naruto-gif-generator/
 │
-├── images/                 # Contient les images source
+├── images/                 # Contains source images
 │   ├── naruto1.jpg
 │   └── ...
 │
-├── gif_generate/           # Contiendra le GIF généré
+├── gif_generate/           # Contains the generated GIF
 │   └── naruto_<date>.gif
 │
-├── create_gif.py          # Script principal
-└── README.md               # Description du projet (vous êtes ici)
+├── create_gif.py          # Main script
+└── README.md               # Project description (you are here)
 ```
 
 ---
@@ -95,11 +95,10 @@ Give me the name you want for your gif : naruto_final
 1. Clone this repository :
 
 ```bash
-git clone https://github.com/ton-nom-utilisateur/naruto-gif-generator.git
-cd naruto-gif-generator
+git clone https://github.com/ton-nom-utilisateur/Create-a-GIF-with-Python.git
 ```
 
-2. Installe les dépendances :
+2.Installs dependencies:
 
 ```bash
 pip install imageio
@@ -107,26 +106,25 @@ pip install imageio
 
 ---
 
-## ✨ Ce que vous pouvez apprendre grâce à ce projet
-
+## ✨What you can learn from this project
 | Compétence | Apprise |
 |------------|---------|
-| Utilisation de bibliothèques tierces (imageio) | ✅ |
-| Nettoyage sécurisé d'entrée utilisateur (regex) | ✅ |
-| Création de fichiers et gestion des chemins (`pathlib`) | ✅ |
-| Scripts robustes avec gestion d’erreurs | ✅ |
-| Structuration de projet Python | ✅ |
-| Intégration continue possible | ✅ |
+| Use of third-party libraries (imageio) | ✅ |
+| Secure cleaning of user input (regex) | ✅ |
+| File creation and path management(`pathlib`) | ✅ |
+| Robust scripts with error handling | ✅ |
+| Python project structuring | ✅ |
+| Continuous integration possible | ✅ |
 
 ---
 
-## 🔄 Possibilités d’amélioration
+## 🔄 Opportunities for improvement
 
 - Interface graphique (Tkinter / PyQt)
-- Si vous avez des idees n'hesitez pas
+- If you have any ideas, don't hesitate to contact us.
 
 ---
 
 ## 🙌 Remerciements
 
-- A Codedex.io
+- Codedex.io the best site for learning
