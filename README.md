@@ -107,7 +107,7 @@ pip install imageio
 ---
 
 ## ✨What you can learn from this project
-| Compétence | Apprise |
+| Expertise | Learned |
 |------------|---------|
 | Use of third-party libraries (imageio) | ✅ |
 | Secure cleaning of user input (regex) | ✅ |
